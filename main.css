@@ -1,0 +1,9 @@
+.boardsquare {
+	border: 1px solid black;
+	height: 150px;
+	width: 150px;
+	text-align: center;
+	font-family: Arial;
+	font-size: 75px;
+}
+
